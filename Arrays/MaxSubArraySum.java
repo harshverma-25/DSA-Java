@@ -21,7 +21,5 @@ public class MaxSubArraySum {
          int result = SubArray(arr);
         System.out.println("Maximum Subarray Sum = " + result);
 
-  
-        
     }
 }
